@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Enabling_Cross_Origin_Requests_for_a_RESTful_Web_Service.iml" filepath="$PROJECT_DIR$/Enabling_Cross_Origin_Requests_for_a_RESTful_Web_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enabling_Cross_Origin_Requests_for_a_RESTful_Web_Service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Enabling_Cross_Origin_Requests_for_a_RESTful_Web_Service_main.iml" group="Enabling_Cross_Origin_Requests_for_a_RESTful_Web_Service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enabling_Cross_Origin_Requests_for_a_RESTful_Web_Service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Enabling_Cross_Origin_Requests_for_a_RESTful_Web_Service_test.iml" group="Enabling_Cross_Origin_Requests_for_a_RESTful_Web_Service" />
+    </modules>
+  </component>
+</project>
